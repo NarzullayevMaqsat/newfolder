@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+body {
+    background: #E5E5E5;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.container, header, .navbar, .section-first, .section-second, .section-third, .section-fourth, .section-fifth, .m6, .footer-top, .footer-bottom {
+    width: 1440px;
+}
+
+.container, .section-first-bottom-h2, .section-second-h2 {
+    margin: 0 auto;
+}
+
+
+
+header {
+    height: 654px;
+}
+.section-first{
+    color: #163A24;
+}
+
+header, .section-second {
+    background-color: #163A24;
+}
+
+header, .section-first, .section-second, .section-fourth, .section-fifth, .m6, .footer-top, .footer-bottom {
+    padding-left: 130px;    
+}
+
+.navbar {
+    height: 98px;
+}
+
+.m1 {
+    margin: 41px 16px;
+}
+
+.h1, .section-first-h2, .section-first-bottom-h2, .section-second-h2, .section-third-h2, .section-fourth-h2-1 {
+    font-size: 48px;
+}
+
+.header-half, .header-img, .section-second-h2, .m2 {
+    color: #fff;
+}
+
+.section-first {
+    height: 1466px;
+}
+
+.section-first {
+    padding-top: 120px;
+}
+
+.section-first, .section-fourth, .m6, .footer-bottom {
+    background-color: #fff;
+}
+
+.section-first-part {
+    width: 1180px;
+    height: 510px;
+    padding-left: 99px;
+
+}
+
+.section-first-part, .section-second-main, .section-fourth-half, .m3, .m6 {
+    display: flex;
+}
+
+.section-second {
+    height: 568px;
+    padding-top: 66px;
+}
+
+.section-third {
+    height: 775px;
+    color: #163A24;
+}
+
+.section-third, .section-fifth, .footer-top {
+    background-color: #F2EFE6;
+}
+
+.section-third {
+    padding-top: 114px;
+}
+
+.section-third {
+    text-align: center;
+}
+
+.section-fourth {
+    height: 1396px;
+    padding-top: 180px;
+    color: #163A24;
+}
+
+.section-fifth {
+    height: 602px;
+    padding-top: 114px;
+    color: #163A24;
+    
+}
+
+.m6 {
+    height: 754px;
+    padding-top: 130px;
+    color: #163A24;
+}
+
+.list {
+    margin-bottom: 20px;
+}
+
+.footer-top {
+    height: 240px;
+    padding-top: 54px;
+    position: relative;
+    color: #163A24;
+}
+
+.footer-bottom {
+    height: 224px;
+    padding-top: 45px;
+}
+
+.m7 {
+    color: #198C36;
+}
